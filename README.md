@@ -7,6 +7,7 @@ You’re now ready to take on the full web-scraping and data analysis project fo
 As you work on this Challenge, remember that you’re strengthening the same core skills that you’ve been developing until now: collecting data, organizing and storing data, analyzing data, and then visually communicating your insights.
 
 What You're Creating
+
 This new assignment consists of two technical products. You will submit the following deliverables:
 
 Deliverable 1: Scrape titles and preview text from Mars news articles. Optionally export the data into a JSON file or a MongoDB database.
